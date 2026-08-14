@@ -1,0 +1,10 @@
+flask>=3.1.0
+pandas>=2.0.0
+numpy>=2.0.0
+scikit-learn>=1.5.0
+pytest>=8.0.0
+
+# Optional computer-vision dependencies for live face recognition and liveness checks:
+# opencv-python>=4.9.0
+# face-recognition>=1.3.0
+# dlib>=19.24.0
